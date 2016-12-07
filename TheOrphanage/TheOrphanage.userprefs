@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game\Scripts\BoardManager.cs">
+    <Files>
+      <File FileName="Assets\Game\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\BoardManager.cs" Line="134" Column="29" />
+      <File FileName="Assets\Game\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Loader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\MovingObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Obj.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\SoundManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
