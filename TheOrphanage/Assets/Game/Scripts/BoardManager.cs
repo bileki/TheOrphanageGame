@@ -130,7 +130,7 @@ namespace Game
 		public void SetupScene (int level)
 		{
 			//Aleatoriza o tamanho do cenário.
-			columns = Random.Range (8, 14);
+			columns = Random.Range (8, 15);
 			rows = Random.Range (6, 8);
 
 			//Cria chão e paredes.
